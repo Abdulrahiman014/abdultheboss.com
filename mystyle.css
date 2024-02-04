@@ -1,0 +1,22 @@
+h2{
+    color: blueviolet;
+}
+
+p{
+    background-color: black;
+    color:red;
+    padding: 0px;
+    font-size: 21px;
+}
+strong{
+    background-color:black;
+    color: blue;
+    padding: 0px;
+    font-size: 21px;
+}
+bond{
+    background-color:black;
+    color: purple;
+    padding: 0px;
+    font-size: 21px;
+}
